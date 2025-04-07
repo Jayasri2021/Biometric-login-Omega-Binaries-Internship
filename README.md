@@ -26,7 +26,8 @@ A Java desktop application that uses biometric fingerprint verification to authe
 
 ## UI Preview
 
-> _Insert screenshots or GIFs of the login interface and fingerprint capture dialog here_
+![image](https://github.com/user-attachments/assets/05b29626-c60c-4a49-9866-af864d7b8fb0)
+
 
 ---
 
